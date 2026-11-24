@@ -1,0 +1,7 @@
+# Stok OS4.0.5'ten extract-files.sh ile üretilir; git'e girmez
+/kernel
+/dtb/
+/dtbo.img
+/vendor_ramdisk/
+/vendor_dlkm/
+/system_dlkm/
